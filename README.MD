@@ -7,10 +7,11 @@
     Crea un contenedor sin ponerle nombre. ¿está arrancado? Obtén el nombre
     con docker run -it ubuntu bash creamos un contenedor sin nombre
 
+![Alt text](imagenes/Screenshot_20240402_165316.png)
 
     con docker ps -a nos muestra los contenedores , y estará de primero en el último de el que salimos , que será del que queremos obtener el nombre.
 
-![Alt text](imagenes/Screenshot_20240402_163853.png)
+![Alt text](imagenes/Screenshot_20240402_165357.png)
 
 # Crea un contenedor con el nombre 'ubu1'. ¿Como puedes acceder a él?
 
