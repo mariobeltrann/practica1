@@ -13,8 +13,9 @@
 
 ![Alt text](imagenes/Screenshot_20240402_165357.png)
 
-# Crea un contenedor con el nombre 'ubu1'. ¿Como puedes acceder a él?
+# Crea un contenedor con el nombre 'practica1'. ¿Como puedes acceder a él?
 
+![creacion](./imagenes/Screenshot_20240402_160110.png)
 ![comprobacion](./imagenes/Screenshot_20240402_161206.png)
 ![comprobacion](imagenes/Screenshot_20240402_161012.png)
 
@@ -50,8 +51,8 @@
 
 ![Alt text](imagenes/Screenshot_20240402_162421.png)
 
-# Crea un contenedor con el nombre 'ubu2'. ¿Puedes hacer ping entre los contenedores?
-		con docker run -it --name ubu2 ubuntu bash creamos el contenedor
+# Crea un contenedor con el nombre 'practica1.2'. ¿Puedes hacer ping entre los contenedores?
+		con docker run -it --name prctica1.2 ubuntu bash creamos el contenedor
 
 ![Alt text](imagenes/Screenshot_20240402_162621.png)
 
