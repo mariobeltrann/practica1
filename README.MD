@@ -1,8 +1,7 @@
 # Descarga la imagen 'ubuntu y comprueba que está en tu equipo
-    con docker run -it --name practica1 ubuntu:latest bash descargamos la última imagen de ubuntu 
     con docker image comprobamos las imágenes
 
-![creacion](./imagenes/Screenshot_20240402_160110.png)
+![Alt text](imagenes/Screenshot_20240402_170007.png)
 
     Crea un contenedor sin ponerle nombre. ¿está arrancado? Obtén el nombre
     con docker run -it ubuntu bash creamos un contenedor sin nombre
